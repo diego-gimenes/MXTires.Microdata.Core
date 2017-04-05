@@ -2,7 +2,7 @@
 
 ## ORIGINAL README
 NET Core 1.1.1 version of MXTires.Microdata.
-MXTires.Microdata is framework to correspond schema.org object types to .Net classes with conversion to JSON.
+
 Removed from original version references for System.Web and changed Assembly instance in MXTires.Microdata.Core.Validators class.
 
 MXTires.Microdata is framework to correspond schema.org object types to .Net classes with conversion to JSON
