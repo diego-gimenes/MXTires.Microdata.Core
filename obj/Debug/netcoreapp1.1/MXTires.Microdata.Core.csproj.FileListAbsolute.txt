@@ -1,0 +1,6 @@
+c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.deps.json
+c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.dll
+c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.AssemblyInfo.cs
+c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.pdb
+c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.dll
+c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.pdb
