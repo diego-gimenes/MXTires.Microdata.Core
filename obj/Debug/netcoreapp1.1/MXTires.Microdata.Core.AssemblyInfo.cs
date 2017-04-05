@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MXTires.Microdata.Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MXTires")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute(".NET Core version quickfixed for MXTires.Microdata")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute(".NET Core version quickfixed for MXTires.Microdata.MXTires.Microdata is framework" +
+    " to correspond schema.org object types to .Net classes with conversion to JSON")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MXTires.Microdata.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MXTires.Microdata.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]

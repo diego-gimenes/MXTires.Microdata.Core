@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "mxtires.microdata.core/1.0.0": {
+      "mxtires.microdata.core/0.1.0": {
         "dependencies": {
           "Newtonsoft.Json": "10.0.2"
         },
@@ -74,7 +74,7 @@
     }
   },
   "libraries": {
-    "mxtires.microdata.core/1.0.0": {
+    "mxtires.microdata.core/0.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

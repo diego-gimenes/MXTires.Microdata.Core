@@ -2,11 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
-    <Description>.NET Core version quickfixed for MXTires.Microdata</Description>
+    <Description>.NET Core version quickfixed for MXTires.Microdata.MXTires.Microdata is framework to correspond schema.org object types to .Net classes with conversion to JSON</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <AssemblyVersion>0.1.0.0</AssemblyVersion>
     <FileVersion>0.1.0.0</FileVersion>
+    <Version>0.1.0</Version>
+    <Authors>Diego Gimenes</Authors>
+    <Company>MXTires</Company>
+    <Product>MXTires.Microdata.Core</Product>
+    <RepositoryUrl>https://github.com/diego-gimenes/MXTires.Microdata.Core</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageReleaseNotes>Removed from original version references for System.Web and changed Assembly instance in MXTires.Microdata.Core.Validators class.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

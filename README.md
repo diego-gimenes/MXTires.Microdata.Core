@@ -1,6 +1,12 @@
 # MXTires.Microdata.Core
+
+##ORIGINAL README
 Quickly ported version of MXTires.Microdata to .NET Core 1.1.1, removed from original .Net 4.5 version references for System.Web 
 and changed Assembly instances in MXTires.Microdata.Core.Validators class.
+
+
+MXTires.Microdata is framework to correspond schema.org object types to .Net classes with conversion to JSON
+
 
 ##Before
 
@@ -10,17 +16,15 @@ Assembly asm = Assembly.GetExecutingAssembly();
 
 Assembly asm = System.Reflection.Assembly.GetEntryAssembly();
 
-##Tested on Visual Studio 2017.
+
 All works here licensed to MXTires, only a litle fix for this hot code! 
 Thanks MXTires
 
-##ORIGINAL README
-
-MXTires.Microdata is framework to correspond schema.org object types to .Net classes with conversion to JSON
-
-## Prerequisites
-Visual Studio 2008 or higher
-[NuGet](https://github.com/paypal/rest-api-sdk-dotnet#nuget "NuGet")
+## New prerequisites
+Visual Studio 2017
+All works here licensed to MXTires, only a litle fix for this hot code! 
+Thanks MXTires
+[NuGet](https://www.nuget.org/ "NuGet")
 
 ## Code example of defining a Product:
 [https://schema.org/Product](https://schema.org/Product/ "Product")

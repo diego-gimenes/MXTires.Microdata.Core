@@ -4,3 +4,10 @@ c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.C
 c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.pdb
 c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.dll
 c:\Users\DevOps\documents\visual studio 2017\Projects\webApi\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.pdb
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.deps.json
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.dll
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\bin\Debug\netcoreapp1.1\MXTires.Microdata.Core.pdb
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.AssemblyInfo.cs
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.dll
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.pdb
+C:\Users\DevOps\Source\Repos\MXTires.Microdata.Core\obj\Debug\netcoreapp1.1\MXTires.Microdata.Core.csprojResolveAssemblyReference.cache

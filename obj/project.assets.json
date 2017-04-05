@@ -7487,12 +7487,12 @@
     "C:\\Users\\DevOps\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DevOps\\Documents\\Visual Studio 2017\\Projects\\MXTires.Microdata.Core\\MXTires.Microdata.Core.csproj",
+      "projectUniqueName": "C:\\Users\\DevOps\\Source\\Repos\\MXTires.Microdata.Core\\MXTires.Microdata.Core.csproj",
       "projectName": "MXTires.Microdata.Core",
-      "projectPath": "C:\\Users\\DevOps\\Documents\\Visual Studio 2017\\Projects\\MXTires.Microdata.Core\\MXTires.Microdata.Core.csproj",
-      "outputPath": "C:\\Users\\DevOps\\Documents\\Visual Studio 2017\\Projects\\MXTires.Microdata.Core\\obj\\",
+      "projectPath": "C:\\Users\\DevOps\\Source\\Repos\\MXTires.Microdata.Core\\MXTires.Microdata.Core.csproj",
+      "outputPath": "C:\\Users\\DevOps\\Source\\Repos\\MXTires.Microdata.Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
