@@ -1,20 +1,14 @@
 # MXTires.Microdata.Core
 Quickly ported version of MXTires.Microdata to .NET Core 1.1.1, removed from original .Net 4.5 version references for System.Web 
-and changed Assembly instances in MXTires.Microdata.Core.Validators class:
-
-
+and changed Assembly instances in MXTires.Microdata.Core.Validators class.
 
 ##Before
 
-
 Assembly asm = Assembly.GetExecutingAssembly();
-
 
 ##After
 
-
 Assembly asm = System.Reflection.Assembly.GetEntryAssembly();
-
 
 ##Tested on Visual Studio 2017.
 All works here licensed to MXTires, only a litle fix for this hot code! 
