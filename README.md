@@ -1,4 +1,19 @@
-# MXTires.Microdata
+# MXTires.Microdata.Core
+Quickly ported version of MXTires.Microdata to .NET Core 1.1.1, the .Net version references for System.Web and changed the way 
+MXTires.Microdata.Core.Validators 
+Before
+
+	 Assembly asm = Assembly.GetExecutingAssembly();
+
+After
+
+	Assembly asm = System.Reflection.Assembly.GetEntryAssembly();
+
+All works here licensed to MXTires, only a litle fix for this hot code! 
+Thanks MXTires
+
+##ORIGINAL README
+
 MXTires.Microdata is framework to correspond schema.org object types to .Net classes with conversion to JSON
 
 ## Prerequisites
